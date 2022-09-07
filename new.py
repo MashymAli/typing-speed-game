@@ -2,7 +2,6 @@ from tkinter import*
 import tkinter as tk
 from PIL import Image, ImageTk
 
-
 root=tk.Tk()
 root.title("Typing Master")      
 root.geometry("600x400+400-200")
