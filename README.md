@@ -20,5 +20,7 @@ Typing speed game made in python with tkinter and pygame. Measures typing speed 
 ## Screenshots:
 
 ![2](https://user-images.githubusercontent.com/87118384/188900737-288e30fc-0ab0-4b7c-ba56-ce913a71a26a.PNG)
+
 ![3](https://user-images.githubusercontent.com/87118384/188900747-a4de10ec-b149-4210-b089-83986d971d4d.PNG)
+
 ![4](https://user-images.githubusercontent.com/87118384/188900749-16e844e4-df42-4611-b1a1-4df39b48ba0d.PNG)
